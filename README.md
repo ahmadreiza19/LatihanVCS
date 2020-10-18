@@ -1,8 +1,14 @@
 # LatihanVCS
 Tugas ke 4
 Nama    : Ahmad Reiza
+
+
 Nim     : 312010037
+
+
 Kelas   : TI.20.B.1
+
+
 
 ## Cara pengunaan Git
 
@@ -12,7 +18,7 @@ Kelas   : TI.20.B.1
 
 * Setelah di download silahkan installasi
 
-![Gambar git scm](gambar/install-github.PNG)
+![Gambar git scm](gambar/install-github.JPG)
 
 * Setelah menginstall lalu cek version di Git Bash
 
