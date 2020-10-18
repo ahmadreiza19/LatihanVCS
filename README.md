@@ -17,11 +17,15 @@ Kelas   : TI.20.B.1
 
 ![Gambar git scm](gambar/download-git.PNG)
 
-* Setelah di download silahkan installasi
+* Setelah di download silahkan installasi git tersebut yang sudah didownload
 
 * Setelah menginstall lalu cek version di Git Bash atau Anda perlu mengecek apakah instalasi Git berhasil atau tidak. Anda bisa mengeceknya melalui Command Prompt. Klik Win+R lalu ketik CMD untuk membuka Command Prompt 
 
-* Lalu Add User (Nama/Email) 
+* Lalu Add User (Nama/Email) dan masukan perintah 
+
+$ git config --global user.name "User_name_Anda"
+
+$ git config --global user.email "Isi_Dengan_Email_Anda@gmail.com"
  
 ![Gambar git scm](gambar/git-user.PNG)
 
@@ -41,7 +45,7 @@ Setelah mengisi detail informasi di atas, klik Create Repository.
 
 ![Gambar git scm](gambar/link-code.PNG)
 
-* Lalu ditempelkan di Git clone di folder
+* Lalu ditempelkan di Git clone 
 
 * Setelah diklik lalu edit file README.md 
 ![Gambar git scm](gambar/klik-readme.PNG)
