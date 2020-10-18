@@ -26,12 +26,14 @@ Kelas   : TI.20.B.1
 
 * Lalu membuat akun GitHub di https://github.com/
 
-![Gambar git scm](gambar/buat-akun.PNG)
-
 * Setelah selesai lalu membuat Repository , Anda perlu mengisi detail informasi berikut:
+
     Nama Repository : digunakan untuk identitas repository yang dibuat.
+
     Deskripsi Repository : berfungsi untuk deskripsi dari repository yang dibuat.
+
     Jenis Repository   : jenis repository  dibagi menjadi Public dan Private. Ketika Anda mengatur repository menjadi Public, orang lain dapat melihat repository yang Anda buat. Sebaliknya, jika Anda mengaturnya sebagai Private, repository tersebut hanya bisa diakses oleh Anda.
+
 Setelah mengisi detail informasi di atas, klik Create Repository.
 
 * Kemudian salin link GitHub
