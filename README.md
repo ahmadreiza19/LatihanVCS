@@ -23,9 +23,9 @@ Kelas   : TI.20.B.1
 
 * Lalu Add User (Nama/Email) dan masukan perintah 
 
-$ git config --global user.name "User_name_Anda"
+$ git config --global user.name "User name Anda"
 
-$ git config --global user.email "Isi_Dengan_Email_Anda@gmail.com"
+$ git config --global user.email "Isi dengan Email Anda"
  
 ![Gambar git scm](gambar/git-user.PNG)
 
@@ -45,20 +45,23 @@ Setelah mengisi detail informasi di atas, klik Create Repository.
 
 ![Gambar git scm](gambar/link-code.PNG)
 
-* Lalu ditempelkan di Git clone 
+* Lalu ditempelkan di Git Clone 
 
-* Setelah diklik lalu edit file README.md 
+* Setelah itu diklik lalu edit file README.md 
 ![Gambar git scm](gambar/klik-readme.PNG)
 
-* Kemudian ketik "git add" lalu enter
+* Kemudian masukan perintah "git add" lalu enter
+Git add itu menambahkan file baru pada repository yang dipilih
 
 ![Gambar git scm](gambar/git-add.PNG)
 
-* Kemudian ketik "git commit" lalu enter
+* Kemudian perintah "git commit" lalu enter
+Git commit itu untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository
 
 ![Gambar git scm](gambar/git-commit.PNG)
 
-* Kemudian ketik "git push" lalu enter
+* Kemudian perintah "git push" lalu enter
+Git push itu untuk mengirimkan perubahan file setelah di commit ke remote repository
 
 ![Gambar git scm](gambar/git-push.PNG)
 
