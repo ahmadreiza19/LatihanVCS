@@ -14,6 +14,8 @@ Kelas   : TI.20.B.1
 
 * Lalu Add User (Nama/Email)
 
+![Gambar nambahkan user](gambar/git-user.PNG)
+
 * Lalu membuat akun GitHub di https://github.com/
 
 * Setelah selesai lalu membuat Repositoy
