@@ -1,5 +1,6 @@
 # LatihanVCS
 Tugas ke 4
+
 Nama    : Ahmad Reiza
 
 
@@ -42,7 +43,7 @@ Setelah mengisi detail informasi di atas, klik Create Repository.
 
 * Lalu ditempelkan di Git clone di folder
 
-* Setelah itu edit file README.md 
+* Setelah diklik lalu edit file README.md 
 ![Gambar git scm](gambar/klik-readme.PNG)
 
 * Kemudian ketik "git add" lalu enter
