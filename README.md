@@ -57,4 +57,6 @@ Setelah mengisi detail informasi di atas, klik Create Repository.
 
 ![Gambar git scm](gambar/git-push.PNG)
 
-* Setelah itu cek di github
+* Setelah itu cek di github, jika seperti gambar dibawah ini maka anda sudah benar
+
+![Gambar git scm](gambar/cek.PNG)
