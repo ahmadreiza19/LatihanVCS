@@ -1,13 +1,9 @@
 # LatihanVCS
 Tugas ke 4
 
-Nama    : Ahmad Reiza
-
-
-Nim     : 312010037
-
-
-Kelas   : TI.20.B.1
+Nama    : Ahmad Reiza<br>
+Nim     : 312010037<br>
+Kelas   : TI.20.B.1<br>
 
 
 
@@ -23,9 +19,8 @@ Kelas   : TI.20.B.1
 
 * Lalu Add User (Nama/Email) dan masukan perintah 
 
-$ git config --global user.name "User name Anda"
-
-$ git config --global user.email "Isi dengan Email Anda"
+$ git config --global user.name "User name Anda"<br>
+$ git config --global user.email "Isi dengan Email Anda"<br>
  
 ![Gambar git scm](gambar/git-user.PNG)
 
@@ -50,17 +45,17 @@ Setelah mengisi detail informasi di atas, klik Create Repository.
 * Setelah itu diklik lalu edit file README.md 
 ![Gambar git scm](gambar/klik-readme.PNG)
 
-* Kemudian masukan perintah "git add" lalu enter
+* Kemudian masukan perintah "git add" lalu enter<br>
 Git add itu menambahkan file baru pada repository yang dipilih
 
 ![Gambar git scm](gambar/git-add.PNG)
 
-* Kemudian perintah "git commit" lalu enter
+* Kemudian perintah "git commit" lalu enter<br>
 Git commit itu untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository
 
 ![Gambar git scm](gambar/git-commit.PNG)
 
-* Kemudian perintah "git push" lalu enter
+* Kemudian perintah "git push" lalu enter<br>
 Git push itu untuk mengirimkan perubahan file setelah di commit ke remote repository
 
 ![Gambar git scm](gambar/git-push.PNG)
