@@ -12,18 +12,16 @@ Kelas   : TI.20.B.1
 
 ## Cara pengunaan Git
 
-* Langkah pertama silahkan download git di https://git-scm.com/
+* Langkah pertama silahkan download git di https://git-scm.com/ . Download sesuai tipe sistem operasi pada komputer Anda. Apabila tipe sistem operasi komputer Anda 64bit,  pilih Git yang mendukung Windows 64bit. Tujuannya adalah agar tidak terjadi error saat proses instalasi Git.
 
 ![Gambar git scm](gambar/download-git.PNG)
 
 * Setelah di download silahkan installasi
 
-![Gambar git scm](gambar/install-github)
+* Setelah menginstall lalu cek version di Git Bash atau Anda perlu mengecek apakah instalasi Git berhasil atau tidak. Anda bisa mengeceknya melalui Command Prompt. Klik Win+R lalu ketik CMD untuk membuka Command Prompt 
 
-* Setelah menginstall lalu cek version di Git Bash
-
-* Lalu Add User (Nama/Email)
-
+* Lalu Add User (Nama/Email) 
+ 
 ![Gambar git scm](gambar/git-user.PNG)
 
 * Lalu membuat akun GitHub di https://github.com/
