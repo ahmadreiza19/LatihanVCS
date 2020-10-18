@@ -18,7 +18,7 @@ Kelas   : TI.20.B.1
 
 * Setelah di download silahkan installasi
 
-![Gambar git scm](gambar/install-github.JPG)
+![Gambar git scm](gambar/install-github)
 
 * Setelah menginstall lalu cek version di Git Bash
 
